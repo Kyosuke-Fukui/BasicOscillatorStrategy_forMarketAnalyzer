@@ -1,0 +1,2 @@
+# BasicOscillatorStrategy_forMarketAnalyzer
+RSIのベーシックな投資戦略に対応
